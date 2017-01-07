@@ -2,6 +2,7 @@
 
 html{margin:0px; padding:0px; background-color: #dfe5ee; font-family: 'Noto Sans', sans-serif;}
 main{width:800px; padding:40px; margin:50px auto; border-radius:3px; background-color: #f0f7ff;}
+main{width:800px; padding:40px; margin:50px auto 0px auto; border-radius:3px; background-color: #f0f7ff;}
 h1, h2, h3, h4{color:#3c3f41; margin: 0px;}
 .credits{font-size: 11px; margin: 0px;}
 .left{float: left;}
