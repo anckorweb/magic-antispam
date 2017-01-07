@@ -3,3 +3,6 @@
 html{margin:0px; padding:0px; background-color: #dfe5ee; font-family: 'Noto Sans', sans-serif;}
 main{width:800px; padding:20px; margin:50px auto 0px auto; border-radius:3px; background-color: #f0f7ff;}
 h1{color:##4b4f51;}
+
+/* (2) Hide the input */
+.magicInput{display:none;}
